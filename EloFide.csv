@@ -1,0 +1,101 @@
+Rank,Name,Title,Country,Rating,Games,B-Year
+1," Carlsen, Magnus", g, NOR,2855,0,1990
+2," Ding, Liren", g, CHN,2799,0,1992
+3," Caruana, Fabiano", g, USA,2791,11,1992
+4," Aronian, Levon", g, ARM,2782,0,1982
+5," Nepomniachtchi, Ian", g, RUS,2782,0,1990
+6," Giri, Anish", g, NED,2774,0,1994
+7," Grischuk, Alexander", g, RUS,2773,0,1983
+8," So, Wesley", g, USA,2772,11,1993
+9," Firouzja, Alireza", g, FRA,2770,0,2003
+10," Vachier-Lagrave, Maxime", g, FRA,2766,5,1990
+11," Mamedyarov, Shakhriyar", g, AZE,2765,5,1985
+12," Rapport, Richard", g, HUN,2763,6,1996
+13," Radjabov, Teimour", g, AZE,2763,0,1987
+14," Duda, Jan-Krzysztof", g, POL,2756,0,1998
+15," Dominguez Perez, Leinier", g, USA,2752,11,1983
+16," Anand, Viswanathan", g, IND,2751,5,1969
+17," Wang, Hao", g, CHN,2744,0,1989
+18," Karjakin, Sergey", g, RUS,2743,0,1990
+19," Nakamura, Hikaru", g, USA,2736,0,1987
+20," Vitiugov, Nikita", g, RUS,2734,11,1987
+21," Topalov, Veselin", g, BUL,2730,0,1975
+22," Wei, Yi", g, CHN,2729,8,1999
+23," Vidit, Santosh Gujrathi", g, IND,2727,0,1994
+24," Andreikin, Dmitry", g, RUS,2724,11,1990
+25," Harikrishna, Pentala", g, IND,2721,10,1986
+26," Adams, Michael", g, ENG,2714,7,1971
+27," Dubov, Daniil", g, RUS,2714,0,1996
+28," Esipenko, Andrey", g, RUS,2713,17,2002
+29," Alekseenko, Kirill", g, RUS,2710,17,1997
+30," Le, Quang Liem", g, VIE,2709,0,1991
+31," Shankland, Sam", g, USA,2708,11,1991
+32," Tomashevsky, Evgeny", g, RUS,2708,0,1987
+33," Maghsoodloo, Parham", g, IRI,2706,7,2000
+34," Fedoseev, Vladimir", g, RUS,2704,11,1995
+35," Vallejo Pons, Francisco", g, ESP,2704,5,1982
+36," Yu, Yangyi", g, CHN,2704,0,1994
+37," Van Foreest, Jorden", g, NED,2701,7,1999
+38," Wojtaszek, Radoslaw", g, POL,2700,14,1987
+39," Bu, Xiangzhi", g, CHN,2700,6,1985
+40," Navara, David", g, CZE,2699,15,1985
+41," Artemiev, Vladislav", g, RUS,2699,0,1998
+42," Sadler, Matthew D", g, ENG,2694,0,1974
+43," Svidler, Peter", g, RUS,2694,0,1976
+44," Matlakov, Maxim", g, RUS,2691,11,1991
+45," Salem, A.R. Saleh", g, UAE,2690,0,1993
+46," Xiong, Jeffery", g, USA,2687,11,2000
+47," Eljanov, Pavel", g, UKR,2687,7,1983
+48," Almasi, Zoltan", g, HUN,2687,0,1976
+49," Korobov, Anton", g, UKR,2684,6,1985
+50," Jakovenko, Dmitry", g, RUS,2682,0,1983
+51," Kryvoruchko, Yuriy", g, UKR,2681,16,1986
+52," Amin, Bassem", g, EGY,2680,5,1988
+53," Li, Chao b", g, CHN,2679,9,1989
+54," Ivanchuk, Vasyl", g, UKR,2678,0,1969
+55," Cheparinov, Ivan", g, BUL,2677,16,1986
+56," Robson, Ray", g, USA,2676,11,1994
+57," Berkes, Ferenc", g, HUN,2676,9,1985
+58," Nyzhnyk, Illya", g, UKR,2674,9,1996
+59," Gelfand, Boris", g, ISR,2674,7,1968
+60," Shirov, Alexei", g, ESP,2673,16,1972
+61," Mamedov, Rauf", g, AZE,2673,0,1988
+62," Adhiban, B.", g, IND,2672,0,1992
+63," Areshchenko, Alexander", g, UKR,2670,14,1986
+64," Grandelius, Nils", g, SWE,2669,19,1993
+65," Anton Guijarro, David", g, ESP,2669,7,1995
+66," Wang, Yue", g, CHN,2669,0,1987
+67," Kovalenko, Igor", g, LAT,2668,14,1988
+68," Predke, Alexandr", g, RUS,2668,11,1994
+69," Ragger, Markus", g, AUT,2668,11,1988
+70," Sevian, Samuel", g, USA,2668,11,2000
+71," Ni, Hua", g, CHN,2668,2,1983
+72," McShane, Luke J", g, ENG,2667,5,1984
+73," Saric, Ivan", g, CRO,2665,19,1990
+74," Guseinov, Gadir", g, AZE,2665,0,1986
+75," Sargissian, Gabriel", g, ARM,2664,0,1983
+76," Leko, Peter", g, HUN,2663,0,1979
+77," Sjugirov, Sanan", g, RUS,2663,0,1993
+78," Ponkratov, Pavel", g, RUS,2662,11,1988
+79," Inarkiev, Ernesto", g, RUS,2659,24,1985
+80," Kasimdzhanov, Rustam", g, UZB,2659,7,1979
+81," Oparin, Grigoriy", g, RUS,2659,7,1997
+82, Narayanan.S.L, g, IND,2658,18,1998
+83," Hou, Yifan", g, CHN,2658,0,1994
+84," Jumabayev, Rinat", g, KAZ,2658,0,1989
+85," Kamsky, Gata", g, USA,2657,6,1974
+86," Sarana, Alexey", g, RUS,2656,9,2000
+87," Volokitin, Andrei", g, UKR,2656,1,1986
+88," Demchenko, Anton", g, RUS,2655,6,1987
+89," Cori, Jorge", g, PER,2655,0,1995
+90," Jones, Gawain C B", g, ENG,2654,14,1987
+91," Najer, Evgeniy", g, RUS,2654,0,1977
+92," Malakhov, Vladimir", g, RUS,2652,4,1980
+93," Nisipeanu, Liviu-Dieter", g, GER,2651,14,1976
+94," Deac, Bogdan-Daniel", g, ROU,2651,10,2001
+95, Nihal Sarin, g, IND,2650,14,2004
+96," Rakhmanov, Aleksandr", g, RUS,2650,11,1989
+97," Tari, Aryan", g, NOR,2649,7,1999
+98," Nabaty, Tamir", g, ISR,2649,2,1991
+99," Melkumyan, Hrant", g, ARM,2649,0,1989
+100," Howell, David W L", g, ENG,2648,7,1990
